@@ -1,0 +1,5 @@
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\Triangle\bin\Debug\Triangle.dll
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\Triangle\bin\Debug\Triangle.pdb
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\Triangle\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\Triangle\obj\Debug\Triangle.dll
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\Triangle\obj\Debug\Triangle.pdb

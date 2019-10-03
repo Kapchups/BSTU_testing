@@ -1,0 +1,9 @@
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\UnitTestProject2\bin\Debug\Triangle.dll
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\UnitTestProject2\bin\Debug\Triangle.pdb
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\University\4_kurs\testing_labs\labs\BSTU_testing\xUnit\UnitTests\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
