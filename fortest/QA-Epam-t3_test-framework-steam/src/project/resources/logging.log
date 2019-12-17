@@ -1,0 +1,510 @@
+2019-12-05 08:10:06 INFO  LogUtils:9 - Set implicitly Wait
+2019-12-05 08:10:06 INFO  LogUtils:9 - Set implicitly wait
+2019-12-05 08:10:06 INFO  LogUtils:9 - Get chrome driver
+2019-12-05 08:14:27 INFO  LogUtils:9 - Set implicitly Wait
+2019-12-05 08:14:27 INFO  LogUtils:9 - Set implicitly wait
+2019-12-05 08:14:27 INFO  LogUtils:9 - Get chrome driver
+2019-12-05 08:14:41 INFO  LogUtils:9 - Maximize window
+2019-12-05 08:14:41 INFO  LogUtils:9 - Maximize window
+2019-12-05 08:14:42 INFO  LogUtils:9 - Go tohttps://store.steampowered.com/
+2019-12-05 08:14:42 INFO  LogUtils:9 - Go to https://store.steampowered.com/ .
+2019-12-05 08:14:49 INFO  LogUtils:9 - Click logo steam .
+2019-12-05 08:14:53 INFO  LogUtils:9 - Open Main Page
+2019-12-05 08:14:53 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-05 08:14:53 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-05 08:14:53 INFO  LogUtils:9 - Choose Action Category
+2019-12-05 08:14:53 INFO  LogUtils:9 - Click Games
+2019-12-05 08:14:53 INFO  LogUtils:9 - Hover Games button.
+2019-12-05 08:14:53 INFO  LogUtils:9 - Hover Games button.
+2019-12-05 08:14:53 INFO  LogUtils:9 - Click Action category
+2019-12-05 08:14:53 INFO  LogUtils:9 - Click Category button.
+2019-12-05 08:14:53 INFO  LogUtils:9 - Click Category button .
+2019-12-05 08:15:00 INFO  LogUtils:9 - Check 'Browsing Action' page
+2019-12-05 08:15:00 INFO  LogUtils:9 - Check actions page.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from NameOfCategory.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Click Top Selling
+2019-12-05 08:15:00 INFO  LogUtils:9 - Click Top Selling
+2019-12-05 08:15:00 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-05 08:15:00 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-05 08:15:00 INFO  LogUtils:9 - Check Top Selling category
+2019-12-05 08:15:00 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Click on the game with the maximum discount
+2019-12-05 08:15:00 INFO  LogUtils:9 - Click game with minimal discount
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get info about games with discount.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:00 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-05 08:15:01 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:01 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:01 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:01 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-05 08:15:01 INFO  LogUtils:9 - Recording information about the selected game
+2019-12-05 08:15:01 INFO  LogUtils:9 - Click Element of games.
+2019-12-05 08:15:01 INFO  LogUtils:9 - Click Element of games .
+2019-12-05 08:15:10 INFO  LogUtils:9 - Check Age Gate page
+2019-12-05 08:15:10 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-05 08:15:10 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-05 08:15:15 INFO  LogUtils:9 - Check selected game pageMonster Boy and the Cursed Kingdom
+2019-12-05 08:15:15 INFO  LogUtils:9 - Check for collection or game.
+2019-12-05 08:15:15 INFO  LogUtils:9 - Check NameOfCollectionsGame button is displayed.
+2019-12-05 08:15:20 INFO  LogUtils:9 - Check NameOfGame button is displayed.
+2019-12-05 08:15:20 INFO  LogUtils:9 - Compare game name.
+2019-12-05 08:15:20 INFO  LogUtils:9 - Get text from NameOfGame button.
+2019-12-05 08:15:20 INFO  LogUtils:9 - Check equal initial price
+2019-12-05 08:15:20 INFO  LogUtils:9 - Compare discount initial.
+2019-12-05 08:15:20 INFO  LogUtils:9 - Get text from InitialPrice button.
+2019-12-05 08:15:21 INFO  LogUtils:9 - Check equal discount price
+2019-12-05 08:15:21 INFO  LogUtils:9 - Compare discount prices.
+2019-12-05 08:15:21 INFO  LogUtils:9 - Get text from DiscountPrice button.
+2019-12-05 08:15:21 INFO  LogUtils:9 - Check equal discount rate
+2019-12-05 08:15:21 INFO  LogUtils:9 - Compare discount rates.
+2019-12-05 08:15:21 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-05 08:15:21 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-05 08:15:21 INFO  LogUtils:9 - Click logo steam .
+2019-12-05 08:15:23 INFO  LogUtils:9 - Open Main Page
+2019-12-05 08:15:23 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-05 08:15:23 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-05 08:15:23 INFO  LogUtils:9 - Choose Action Category
+2019-12-05 08:15:23 INFO  LogUtils:9 - Click Games
+2019-12-05 08:15:23 INFO  LogUtils:9 - Hover Games button.
+2019-12-05 08:15:23 INFO  LogUtils:9 - Hover Games button.
+2019-12-05 08:15:24 INFO  LogUtils:9 - Click Action category
+2019-12-05 08:15:24 INFO  LogUtils:9 - Click Category button.
+2019-12-05 08:15:24 INFO  LogUtils:9 - Click Category button .
+2019-12-05 08:15:34 INFO  LogUtils:9 - Check 'Browsing Action' page
+2019-12-05 08:15:34 INFO  LogUtils:9 - Check indi page.
+2019-12-05 08:15:34 INFO  LogUtils:9 - Get text from NameOfCategory.
+2019-12-05 08:15:34 INFO  LogUtils:9 - Click Top Selling
+2019-12-05 08:15:34 INFO  LogUtils:9 - Click Top Selling
+2019-12-05 08:15:34 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-05 08:15:34 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-05 08:15:34 INFO  LogUtils:9 - Check Top Selling category
+2019-12-05 08:15:34 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-05 08:15:34 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-05 08:15:34 INFO  LogUtils:9 - Click on the game with the maximum discount
+2019-12-05 08:15:34 INFO  LogUtils:9 - Click game with minimal discount
+2019-12-05 08:15:34 INFO  LogUtils:9 - Get info about games with discount.
+2019-12-05 08:15:34 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-05 08:15:34 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-05 08:15:34 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:34 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:34 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Recording information about the selected game
+2019-12-05 08:15:35 INFO  LogUtils:9 - Click Element of games.
+2019-12-05 08:15:35 INFO  LogUtils:9 - Click Element of games .
+2019-12-05 08:15:50 INFO  LogUtils:9 - Check Age Gate page
+2019-12-05 08:15:50 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-05 08:15:50 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-05 08:15:55 INFO  LogUtils:9 - Check selected game pageChildren of Morta
+2019-12-05 08:15:55 INFO  LogUtils:9 - Check for collection or game.
+2019-12-05 08:15:55 INFO  LogUtils:9 - Check NameOfCollectionsGame button is displayed.
+2019-12-05 08:16:00 INFO  LogUtils:9 - Check NameOfGame button is displayed.
+2019-12-05 08:16:00 INFO  LogUtils:9 - Compare game name.
+2019-12-05 08:16:01 INFO  LogUtils:9 - Get text from NameOfGame button.
+2019-12-05 08:16:01 INFO  LogUtils:9 - Check equal initial price
+2019-12-05 08:16:01 INFO  LogUtils:9 - Compare discount initial.
+2019-12-05 08:16:01 INFO  LogUtils:9 - Get text from InitialPrice button.
+2019-12-05 08:16:01 INFO  LogUtils:9 - Check equal discount price
+2019-12-05 08:16:01 INFO  LogUtils:9 - Compare discount prices.
+2019-12-05 08:16:01 INFO  LogUtils:9 - Get text from DiscountPrice button.
+2019-12-05 08:16:01 INFO  LogUtils:9 - Check equal discount rate
+2019-12-05 08:16:01 INFO  LogUtils:9 - Compare discount rates.
+2019-12-05 08:16:01 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-05 08:16:01 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-05 08:16:01 INFO  LogUtils:9 - Go tohttps://store.steampowered.com/
+2019-12-05 08:16:01 INFO  LogUtils:9 - Go to https://store.steampowered.com/ .
+2019-12-05 08:16:04 INFO  LogUtils:9 - Open Main Page
+2019-12-05 08:16:04 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-05 08:16:04 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-05 08:16:04 INFO  LogUtils:9 - Click install button
+2019-12-05 08:16:04 INFO  LogUtils:9 - Click 'install' button on the Main page .
+2019-12-05 08:16:04 INFO  LogUtils:9 - Click 'install' button on the Main page .
+2019-12-05 08:16:06 INFO  LogUtils:9 - Check 'Welcome Steam Page'
+2019-12-05 08:16:06 INFO  LogUtils:9 - Check 'install' button on the 'Welcome Steam' page is displayed.
+2019-12-05 08:16:06 INFO  LogUtils:9 - Check 'install' button on the 'Welcome Steam' page is displayed.
+2019-12-05 08:16:06 INFO  LogUtils:9 - Click download steam
+2019-12-05 08:16:06 INFO  LogUtils:9 - Click 'install' button on the 'Welcome Steam' page .
+2019-12-05 08:16:06 INFO  LogUtils:9 - Click 'install' button on the 'Welcome Steam' page .
+2019-12-05 08:16:07 INFO  LogUtils:9 - Waiting for file upload
+2019-12-05 08:16:08 INFO  LogUtils:9 - Check exist steam file
+2019-12-05 08:16:09 INFO  LogUtils:9 - Close browser
+2019-12-10 16:15:17 INFO  LogUtils:9 - Set implicitly Wait
+2019-12-10 16:15:17 INFO  LogUtils:9 - Set implicitly wait
+2019-12-10 16:15:17 INFO  LogUtils:9 - Get chrome driver
+2019-12-10 16:15:22 INFO  LogUtils:9 - Maximize window
+2019-12-10 16:15:22 INFO  LogUtils:9 - Maximize window
+2019-12-10 16:15:23 INFO  LogUtils:9 - Go tohttps://store.steampowered.com/
+2019-12-10 16:15:23 INFO  LogUtils:9 - Go to https://store.steampowered.com/ .
+2019-12-10 16:15:33 INFO  LogUtils:9 - Open Main Page
+2019-12-10 16:15:33 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-10 16:15:33 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-10 16:15:33 INFO  LogUtils:9 - Click install button
+2019-12-10 16:15:33 INFO  LogUtils:9 - Click 'install' button on the Main page .
+2019-12-10 16:15:33 INFO  LogUtils:9 - Click 'install' button on the Main page .
+2019-12-10 16:15:35 INFO  LogUtils:9 - Check 'Welcome Steam Page'
+2019-12-10 16:15:35 INFO  LogUtils:9 - Check 'install' button on the 'Welcome Steam' page is displayed.
+2019-12-10 16:15:35 INFO  LogUtils:9 - Check 'install' button on the 'Welcome Steam' page is displayed.
+2019-12-10 16:15:35 INFO  LogUtils:9 - Click download steam
+2019-12-10 16:15:35 INFO  LogUtils:9 - Click 'install' button on the 'Welcome Steam' page .
+2019-12-10 16:15:35 INFO  LogUtils:9 - Click 'install' button on the 'Welcome Steam' page .
+2019-12-10 16:15:37 INFO  LogUtils:9 - Waiting for file upload
+2019-12-10 16:15:37 INFO  LogUtils:9 - Check exist steam file
+2019-12-10 16:15:37 INFO  LogUtils:9 - Close browser
+2019-12-10 17:16:22 INFO  LogUtils:9 - Set implicitly Wait
+2019-12-10 17:16:22 INFO  LogUtils:9 - Set implicitly wait
+2019-12-10 17:16:22 INFO  LogUtils:9 - Get chrome driver
+2019-12-10 17:16:28 INFO  LogUtils:9 - Maximize window
+2019-12-10 17:16:28 INFO  LogUtils:9 - Maximize window
+2019-12-10 17:16:29 INFO  LogUtils:9 - Go tohttps://store.steampowered.com/
+2019-12-10 17:16:29 INFO  LogUtils:9 - Go to https://store.steampowered.com/ .
+2019-12-10 17:16:42 INFO  LogUtils:9 - Click logo steam .
+2019-12-10 17:16:47 INFO  LogUtils:9 - Open Main Page
+2019-12-10 17:16:47 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-10 17:16:47 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-10 17:16:47 INFO  LogUtils:9 - Choose Action Category
+2019-12-10 17:16:47 INFO  LogUtils:9 - Click Games
+2019-12-10 17:16:47 INFO  LogUtils:9 - Hover Games button.
+2019-12-10 17:16:47 INFO  LogUtils:9 - Hover Games button.
+2019-12-10 17:16:47 INFO  LogUtils:9 - Click Action category
+2019-12-10 17:16:47 INFO  LogUtils:9 - Click Category button.
+2019-12-10 17:16:47 INFO  LogUtils:9 - Click Category button .
+2019-12-10 17:16:56 INFO  LogUtils:9 - Check 'Browsing Action' page
+2019-12-10 17:16:56 INFO  LogUtils:9 - Check actions page.
+2019-12-10 17:16:56 INFO  LogUtils:9 - Get text from NameOfCategory.
+2019-12-10 17:16:56 INFO  LogUtils:9 - Click Top Selling
+2019-12-10 17:16:56 INFO  LogUtils:9 - Click Top Selling
+2019-12-10 17:16:56 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-10 17:16:56 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-10 17:16:56 INFO  LogUtils:9 - Check Top Selling category
+2019-12-10 17:16:56 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-10 17:16:56 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-10 17:16:56 INFO  LogUtils:9 - Click on the game with the maximum discount
+2019-12-10 17:16:56 INFO  LogUtils:9 - Click game with minimal discount
+2019-12-10 17:16:56 INFO  LogUtils:9 - Get info about games with discount.
+2019-12-10 17:16:56 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-10 17:16:56 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Recording information about the selected game
+2019-12-10 17:16:57 INFO  LogUtils:9 - Click Element of games.
+2019-12-10 17:16:57 INFO  LogUtils:9 - Click Element of games .
+2019-12-10 17:16:59 INFO  LogUtils:9 - Check Age Gate page
+2019-12-10 17:16:59 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-10 17:16:59 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-10 17:16:59 INFO  LogUtils:9 - Click DropList of year.
+2019-12-10 17:16:59 INFO  LogUtils:9 - Click DropList of year .
+2019-12-10 17:17:01 INFO  LogUtils:9 - Click Button 'Open Page'.
+2019-12-10 17:17:01 INFO  LogUtils:9 - Click Button 'Open Page' .
+2019-12-10 17:17:01 INFO  LogUtils:9 - Check selected game pageDying Light Enhanced Edition
+2019-12-10 17:17:01 INFO  LogUtils:9 - Check for collection or game.
+2019-12-10 17:17:01 INFO  LogUtils:9 - Check NameOfCollectionsGame button is displayed.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Compare collections name.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Get text from NameOfCollectionsGame button.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Check equal initial price
+2019-12-10 17:17:03 INFO  LogUtils:9 - Compare discount initial.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Get text from InitialPrice button.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Check equal discount price
+2019-12-10 17:17:03 INFO  LogUtils:9 - Compare discount prices.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Get text from DiscountPrice button.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Check equal discount rate
+2019-12-10 17:17:03 INFO  LogUtils:9 - Compare discount rates.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-10 17:17:03 INFO  LogUtils:9 - Click logo steam .
+2019-12-10 17:17:07 INFO  LogUtils:9 - Open Main Page
+2019-12-10 17:17:07 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-10 17:17:07 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-10 17:17:07 INFO  LogUtils:9 - Choose Action Category
+2019-12-10 17:17:07 INFO  LogUtils:9 - Click Games
+2019-12-10 17:17:07 INFO  LogUtils:9 - Hover Games button.
+2019-12-10 17:17:07 INFO  LogUtils:9 - Hover Games button.
+2019-12-10 17:17:07 INFO  LogUtils:9 - Click Action category
+2019-12-10 17:17:07 INFO  LogUtils:9 - Click Category button.
+2019-12-10 17:17:07 INFO  LogUtils:9 - Click Category button .
+2019-12-10 17:17:15 INFO  LogUtils:9 - Check 'Browsing Action' page
+2019-12-10 17:17:15 INFO  LogUtils:9 - Check indi page.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from NameOfCategory.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Click Top Selling
+2019-12-10 17:17:15 INFO  LogUtils:9 - Click Top Selling
+2019-12-10 17:17:15 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-10 17:17:15 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-10 17:17:15 INFO  LogUtils:9 - Check Top Selling category
+2019-12-10 17:17:15 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Click on the game with the maximum discount
+2019-12-10 17:17:15 INFO  LogUtils:9 - Click game with minimal discount
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get info about games with discount.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:15 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:16 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Recording information about the selected game
+2019-12-10 17:17:17 INFO  LogUtils:9 - Click Element of games.
+2019-12-10 17:17:17 INFO  LogUtils:9 - Click Element of games .
+2019-12-10 17:17:44 INFO  LogUtils:9 - Check Age Gate page
+2019-12-10 17:17:44 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-10 17:17:44 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-10 17:17:49 INFO  LogUtils:9 - Check selected game pageDawn of Man
+2019-12-10 17:17:49 INFO  LogUtils:9 - Check for collection or game.
+2019-12-10 17:17:49 INFO  LogUtils:9 - Check NameOfCollectionsGame button is displayed.
+2019-12-10 17:17:50 INFO  LogUtils:9 - Check NameOfGame button is displayed.
+2019-12-10 17:17:51 INFO  LogUtils:9 - Close browser
+2019-12-17 19:38:01 INFO  LogUtils:9 - Set implicitly Wait
+2019-12-17 19:38:01 INFO  LogUtils:9 - Set implicitly wait
+2019-12-17 19:38:01 INFO  LogUtils:9 - Get chrome driver
+2019-12-17 19:38:11 INFO  LogUtils:9 - Maximize window
+2019-12-17 19:38:11 INFO  LogUtils:9 - Maximize window
+2019-12-17 19:38:13 INFO  LogUtils:9 - Go tohttps://store.steampowered.com/
+2019-12-17 19:38:13 INFO  LogUtils:9 - Go to https://store.steampowered.com/ .
+2019-12-17 19:38:19 INFO  LogUtils:9 - Click logo steam .
+2019-12-17 19:38:23 INFO  LogUtils:9 - Open Main Page
+2019-12-17 19:38:23 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-17 19:38:25 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-17 19:38:26 INFO  LogUtils:9 - Choose Action Category
+2019-12-17 19:38:29 INFO  LogUtils:9 - Click Games
+2019-12-17 19:38:29 INFO  LogUtils:9 - Hover Games button.
+2019-12-17 19:38:30 INFO  LogUtils:9 - Hover Games button.
+2019-12-17 19:38:30 INFO  LogUtils:9 - Click Action category
+2019-12-17 19:38:30 INFO  LogUtils:9 - Click Category button.
+2019-12-17 19:38:30 INFO  LogUtils:9 - Click Category button .
+2019-12-17 19:38:41 INFO  LogUtils:9 - Check 'Browsing Action' page
+2019-12-17 19:38:41 INFO  LogUtils:9 - Check actions page.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from NameOfCategory.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Click Top Selling
+2019-12-17 19:38:41 INFO  LogUtils:9 - Click Top Selling
+2019-12-17 19:38:41 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-17 19:38:41 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-17 19:38:41 INFO  LogUtils:9 - Check Top Selling category
+2019-12-17 19:38:41 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Click on the game with the maximum discount
+2019-12-17 19:38:41 INFO  LogUtils:9 - Click game with minimal discount
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get info about games with discount.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:41 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Recording information about the selected game
+2019-12-17 19:38:42 INFO  LogUtils:9 - Click Element of games.
+2019-12-17 19:38:42 INFO  LogUtils:9 - Click Element of games .
+2019-12-17 19:39:23 INFO  LogUtils:9 - Check Age Gate page
+2019-12-17 19:39:23 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-17 19:39:23 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-17 19:39:29 INFO  LogUtils:9 - Check selected game pageTotal War: WARHAMMER II
+2019-12-17 19:39:29 INFO  LogUtils:9 - Check for collection or game.
+2019-12-17 19:39:29 INFO  LogUtils:9 - Check NameOfCollectionsGame button is displayed.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Check NameOfGame button is displayed.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Compare game name.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Get text from NameOfGame button.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Check equal initial price
+2019-12-17 19:39:34 INFO  LogUtils:9 - Compare discount initial.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Get text from InitialPrice button.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Check equal discount price
+2019-12-17 19:39:34 INFO  LogUtils:9 - Compare discount prices.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Get text from DiscountPrice button.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Check equal discount rate
+2019-12-17 19:39:34 INFO  LogUtils:9 - Compare discount rates.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-17 19:39:34 INFO  LogUtils:9 - Click logo steam .
+2019-12-17 19:39:38 INFO  LogUtils:9 - Open Main Page
+2019-12-17 19:39:38 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-17 19:39:38 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-17 19:39:38 INFO  LogUtils:9 - Choose Action Category
+2019-12-17 19:39:38 INFO  LogUtils:9 - Click Games
+2019-12-17 19:39:38 INFO  LogUtils:9 - Hover Games button.
+2019-12-17 19:39:38 INFO  LogUtils:9 - Hover Games button.
+2019-12-17 19:39:38 INFO  LogUtils:9 - Click Action category
+2019-12-17 19:39:38 INFO  LogUtils:9 - Click Category button.
+2019-12-17 19:39:38 INFO  LogUtils:9 - Click Category button .
+2019-12-17 19:39:47 INFO  LogUtils:9 - Check 'Browsing Action' page
+2019-12-17 19:39:47 INFO  LogUtils:9 - Check indi page.
+2019-12-17 19:39:47 INFO  LogUtils:9 - Get text from NameOfCategory.
+2019-12-17 19:39:47 INFO  LogUtils:9 - Click Top Selling
+2019-12-17 19:39:47 INFO  LogUtils:9 - Click Top Selling
+2019-12-17 19:39:47 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-17 19:39:47 INFO  LogUtils:9 - Click TopSellers button .
+2019-12-17 19:39:47 INFO  LogUtils:9 - Check Top Selling category
+2019-12-17 19:39:47 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-17 19:39:47 INFO  LogUtils:9 - Check TopSellers button is displayed.
+2019-12-17 19:39:47 INFO  LogUtils:9 - Click on the game with the maximum discount
+2019-12-17 19:39:47 INFO  LogUtils:9 - Click game with minimal discount
+2019-12-17 19:39:47 INFO  LogUtils:9 - Get info about games with discount.
+2019-12-17 19:39:47 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-17 19:39:47 INFO  LogUtils:9 - Find elements DiscountGames button.
+2019-12-17 19:39:47 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Get text from Name game with highest discount.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Recording information about the selected game
+2019-12-17 19:39:48 INFO  LogUtils:9 - Click Element of games.
+2019-12-17 19:39:48 INFO  LogUtils:9 - Click Element of games .
+2019-12-17 19:39:56 INFO  LogUtils:9 - Check Age Gate page
+2019-12-17 19:39:56 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-17 19:39:56 INFO  LogUtils:9 - Check Div block on the AgeGate page. is displayed.
+2019-12-17 19:40:01 INFO  LogUtils:9 - Check selected game pageHades
+2019-12-17 19:40:01 INFO  LogUtils:9 - Check for collection or game.
+2019-12-17 19:40:01 INFO  LogUtils:9 - Check NameOfCollectionsGame button is displayed.
+2019-12-17 19:40:06 INFO  LogUtils:9 - Check NameOfGame button is displayed.
+2019-12-17 19:40:06 INFO  LogUtils:9 - Compare game name.
+2019-12-17 19:40:07 INFO  LogUtils:9 - Get text from NameOfGame button.
+2019-12-17 19:40:07 INFO  LogUtils:9 - Check equal initial price
+2019-12-17 19:40:07 INFO  LogUtils:9 - Compare discount initial.
+2019-12-17 19:40:07 INFO  LogUtils:9 - Get text from InitialPrice button.
+2019-12-17 19:40:07 INFO  LogUtils:9 - Check equal discount price
+2019-12-17 19:40:07 INFO  LogUtils:9 - Compare discount prices.
+2019-12-17 19:40:07 INFO  LogUtils:9 - Get text from DiscountPrice button.
+2019-12-17 19:40:07 INFO  LogUtils:9 - Check equal discount rate
+2019-12-17 19:40:07 INFO  LogUtils:9 - Compare discount rates.
+2019-12-17 19:40:07 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-17 19:40:07 INFO  LogUtils:9 - Get text from DiscountRate button.
+2019-12-17 19:40:07 INFO  LogUtils:9 - Go tohttps://store.steampowered.com/
+2019-12-17 19:40:07 INFO  LogUtils:9 - Go to https://store.steampowered.com/ .
+2019-12-17 19:40:10 INFO  LogUtils:9 - Open Main Page
+2019-12-17 19:40:10 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-17 19:40:10 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-17 19:40:10 INFO  LogUtils:9 - Click install button
+2019-12-17 19:40:10 INFO  LogUtils:9 - Click 'install' button on the Main page .
+2019-12-17 19:40:10 INFO  LogUtils:9 - Click 'install' button on the Main page .
+2019-12-17 19:40:11 INFO  LogUtils:9 - Check 'Welcome Steam Page'
+2019-12-17 19:40:11 INFO  LogUtils:9 - Check 'install' button on the 'Welcome Steam' page is displayed.
+2019-12-17 19:40:11 INFO  LogUtils:9 - Check 'install' button on the 'Welcome Steam' page is displayed.
+2019-12-17 19:40:11 INFO  LogUtils:9 - Click download steam
+2019-12-17 19:40:11 INFO  LogUtils:9 - Click 'install' button on the 'Welcome Steam' page .
+2019-12-17 19:40:11 INFO  LogUtils:9 - Click 'install' button on the 'Welcome Steam' page .
+2019-12-17 19:40:17 INFO  LogUtils:9 - Waiting for file upload
+2019-12-17 19:40:19 INFO  LogUtils:9 - Check exist steam file
+2019-12-17 19:40:19 INFO  LogUtils:9 - Close browser
+2019-12-17 20:07:14 INFO  LogUtils:9 - Set implicitly Wait
+2019-12-17 20:07:15 INFO  LogUtils:9 - Set implicitly wait
+2019-12-17 20:07:15 INFO  LogUtils:9 - Get chrome driver
+2019-12-17 20:07:19 INFO  LogUtils:9 - Maximize window
+2019-12-17 20:07:19 INFO  LogUtils:9 - Maximize window
+2019-12-17 20:07:20 INFO  LogUtils:9 - Go tohttps://store.steampowered.com/
+2019-12-17 20:07:20 INFO  LogUtils:9 - Go to https://store.steampowered.com/ .
+2019-12-17 20:07:32 INFO  LogUtils:9 - Click logo steam .
+2019-12-17 20:07:35 INFO  LogUtils:9 - Open Main Page
+2019-12-17 20:07:35 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-17 20:07:35 INFO  LogUtils:9 - Check Label of the main page is displayed.
+2019-12-17 20:07:35 INFO  LogUtils:9 - Choose Action Category
+2019-12-17 20:07:35 INFO  LogUtils:9 - Click Games
+2019-12-17 20:07:35 INFO  LogUtils:9 - Hover Games button.
+2019-12-17 20:07:35 INFO  LogUtils:9 - Hover Games button.
+2019-12-17 20:07:36 INFO  LogUtils:9 - Click Action category
+2019-12-17 20:07:36 INFO  LogUtils:9 - Click Category button.
+2019-12-17 20:07:36 INFO  LogUtils:9 - Click Category button .
