@@ -8,7 +8,7 @@
         </classes>
     </test>
 
-    <test name="Second Test Suite">
+<!--    <test name="Second Test Suite">
         <classes>
             <class name="project.test.FindHotelsWithDateInLaterThanDateOut"/>
         </classes>
@@ -48,7 +48,7 @@
         <classes>
             <class name="project.test.ViewRoomsInHotel"/>
         </classes>
-    </test>
+    </test>-->
 
 
 </suite>
