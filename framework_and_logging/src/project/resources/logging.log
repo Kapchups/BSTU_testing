@@ -7149,3 +7149,59 @@
 2019-12-17 22:29:16 INFO  LogUtils:9 - Check view Rooms is displayed.
 2019-12-17 22:29:16 INFO  LogUtils:9 - Check view Rooms is displayed.
 2019-12-17 22:29:29 INFO  LogUtils:9 - Close browser
+2019-12-17 23:41:02 INFO  LogUtils:9 - Set implicitly Wait
+2019-12-17 23:41:02 INFO  LogUtils:9 - Set implicitly wait
+2019-12-17 23:41:02 INFO  LogUtils:9 - Get chrome driver
+2019-12-17 23:41:12 INFO  LogUtils:9 - Maximize window
+2019-12-17 23:41:12 INFO  LogUtils:9 - Maximize window
+2019-12-17 23:41:14 INFO  LogUtils:9 - Go to https://ostrovok.ru/?sid=d9498b28-b583-42ca-9ce0-d4d77c9822c1
+2019-12-17 23:41:14 INFO  LogUtils:9 - Go to https://ostrovok.ru/?sid=d9498b28-b583-42ca-9ce0-d4d77c9822c1 .
+2019-12-17 23:41:20 INFO  LogUtils:9 - Setup location
+2019-12-17 23:41:20 INFO  LogUtils:9 - Click Location hotel .
+2019-12-17 23:41:23 INFO  LogUtils:9 - Click Location hotel .
+2019-12-17 23:41:24 INFO  LogUtils:9 - Set location
+2019-12-17 23:41:24 INFO  LogUtils:9 - Enter Location hotel .
+2019-12-17 23:41:24 INFO  LogUtils:9 - SendKey on Location hotel .
+2019-12-17 23:41:34 INFO  LogUtils:9 - Close browser
+2019-12-17 23:42:20 INFO  LogUtils:9 - Set implicitly Wait
+2019-12-17 23:42:20 INFO  LogUtils:9 - Set implicitly wait
+2019-12-17 23:42:20 INFO  LogUtils:9 - Get chrome driver
+2019-12-17 23:42:26 INFO  LogUtils:9 - Maximize window
+2019-12-17 23:42:26 INFO  LogUtils:9 - Maximize window
+2019-12-17 23:42:27 INFO  LogUtils:9 - Go to https://ostrovok.ru/?sid=d9498b28-b583-42ca-9ce0-d4d77c9822c1
+2019-12-17 23:42:27 INFO  LogUtils:9 - Go to https://ostrovok.ru/?sid=d9498b28-b583-42ca-9ce0-d4d77c9822c1 .
+2019-12-17 23:42:37 INFO  LogUtils:9 - Setup location
+2019-12-17 23:42:37 INFO  LogUtils:9 - Click Location hotel .
+2019-12-17 23:42:38 INFO  LogUtils:9 - Click Location hotel .
+2019-12-17 23:42:38 INFO  LogUtils:9 - Set location
+2019-12-17 23:42:38 INFO  LogUtils:9 - Enter Location hotel .
+2019-12-17 23:42:38 INFO  LogUtils:9 - SendKey on Location hotel .
+2019-12-17 23:42:46 INFO  LogUtils:9 - SendKeyEnter on Location hotel .
+2019-12-17 23:42:46 INFO  LogUtils:9 - Setup Date
+2019-12-17 23:42:46 INFO  LogUtils:9 - Click ArrivalDate .
+2019-12-17 23:42:46 INFO  LogUtils:9 - Click ArrivalDate .
+2019-12-17 23:42:47 INFO  LogUtils:9 - Enter DateOf .
+2019-12-17 23:42:47 INFO  LogUtils:9 - Click DateOf .
+2019-12-17 23:42:47 INFO  LogUtils:9 - Enter DateTo .
+2019-12-17 23:42:47 INFO  LogUtils:9 - Click DateTo .
+2019-12-17 23:42:47 INFO  LogUtils:9 - Setup count numbers
+2019-12-17 23:42:47 INFO  LogUtils:9 - Click Numbers .
+2019-12-17 23:42:48 INFO  LogUtils:9 - Click Numbers .
+2019-12-17 23:42:48 INFO  LogUtils:9 - Count children: 1 .
+2019-12-17 23:42:48 INFO  LogUtils:9 - Click button Add Children .
+2019-12-17 23:42:48 INFO  LogUtils:9 - Click button Add Children .
+2019-12-17 23:42:48 INFO  LogUtils:9 - Click button Save Count Peoples .
+2019-12-17 23:42:48 INFO  LogUtils:9 - Click button Save Count Peoples .
+2019-12-17 23:42:49 INFO  LogUtils:9 - Click checkbox Other Prices .
+2019-12-17 23:42:49 INFO  LogUtils:9 - Click checkbox Other Prices .
+2019-12-17 23:42:49 INFO  LogUtils:9 - Click checkbox Relaxation .
+2019-12-17 23:42:49 INFO  LogUtils:9 - Click checkbox Relaxation .
+2019-12-17 23:42:49 INFO  LogUtils:9 - Click button Submit .
+2019-12-17 23:42:49 INFO  LogUtils:9 - Click button Submit .
+2019-12-17 23:42:50 INFO  LogUtils:9 - Open page hotels
+2019-12-17 23:42:50 INFO  LogUtils:9 - Check view no Hotels is displayed.
+2019-12-17 23:42:50 INFO  LogUtils:9 - Check view no Hotels is displayed.
+2019-12-17 23:42:50 INFO  LogUtils:9 - Check view hotels
+2019-12-17 23:42:50 INFO  LogUtils:9 - view Hotels
+2019-12-17 23:42:51 INFO  LogUtils:9 - Size view Hotels .
+2019-12-17 23:43:15 INFO  LogUtils:9 - Close browser
