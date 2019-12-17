@@ -10,10 +10,45 @@
 
     <test name="First Test Suite">
         <classes>
+            <class name="project.test.FindHotelsWithDateInLaterThanDateOut"/>
+        </classes>
+    </test>
+
+    <test name="Third Test Suite">
+        <classes>
             <class name="project.test.LoginNonRegisterUser"/>
         </classes>
     </test>
 
+    <test name="Fourth Test Suite">
+        <classes>
+            <class name="project.test.OneHotelRoomForTenGuests"/>
+        </classes>
+    </test>
+
+    <test name="Fifth Test Suite">
+        <classes>
+            <class name="project.test.RoomReservation"/>
+        </classes>
+    </test>
+
+    <test name="Sixth Test Suite">
+        <classes>
+            <class name="project.test.SavePromotionalCodeWithAnEmptyField"/>
+        </classes>
+    </test>
+
+    <test name="Seventh Test Suite">
+        <classes>
+            <class name="project.test.ViewGeopositionHotel"/>
+        </classes>
+    </test>
+
+    <test name="Eighth Test Suite">
+        <classes>
+            <class name="project.test.ViewRoomsInHotel"/>
+        </classes>
+    </test>
 
 
 </suite>
