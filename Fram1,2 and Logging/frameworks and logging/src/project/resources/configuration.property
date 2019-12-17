@@ -1,0 +1,5 @@
+browser=chrome
+url=https://ostrovok.ru/?sid=d9498b28-b583-42ca-9ce0-d4d77c9822c1
+log_config=src/project/resources/log.properties
+implicitlyWait=5
+explicitlyWait=10
