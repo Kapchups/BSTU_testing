@@ -1,5 +1,6 @@
 package project.test;
 
+import framework.browser.Browser;
 import framework.utils.LogUtils;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -25,5 +26,6 @@ public class SavePromotionalCodeWithAnEmptyField extends Base {
         promotionalCodePage.ButtonSavePromotionalCode();
 
         Assert.assertTrue(promotionalCodePage.AssertErrorSavePromotionalCode()>0);
+        Browser.getDriver().manage().deleteAllCookies();
     }
 }

@@ -1,5 +1,6 @@
 package project.test;
 
+import framework.browser.Browser;
 import framework.utils.LogUtils;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -40,5 +41,6 @@ public class OneHotelRoomForTenGuests extends Base {
         Assert.assertTrue(searchPage.isHotelPageDisplayed(), "The hotels page is not opened.");
         LogUtils.info("Check view hotels");
         Assert.assertTrue(searchPage.AssertViewNoHotels()>0);
+        Browser.getDriver().manage().deleteAllCookies();
     }
 }

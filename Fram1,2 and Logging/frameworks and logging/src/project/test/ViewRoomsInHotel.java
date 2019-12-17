@@ -55,6 +55,7 @@ public class ViewRoomsInHotel extends Base {
 
         Browser.getDriver().close();
         Browser.switchTab(0);
+        Browser.getDriver().manage().deleteAllCookies();
 
 
     }

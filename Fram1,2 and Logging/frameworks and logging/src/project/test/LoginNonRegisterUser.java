@@ -1,5 +1,6 @@
 package project.test;
 
+import framework.browser.Browser;
 import framework.utils.LogUtils;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -35,5 +36,6 @@ public class LoginNonRegisterUser extends Base {
         authorizationPage.submitLogin();
 
         Assert.assertTrue(authorizationPage.AssertErrorAuthorization()>0);
+        Browser.getDriver().manage().deleteAllCookies();
     }
 }

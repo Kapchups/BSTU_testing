@@ -58,6 +58,7 @@ public class ViewGeopositionHotel extends Base {
         Browser.getDriver().close();
         Browser.switchTab(0);
 
+        Browser.getDriver().manage().deleteAllCookies();
 
     }
 }

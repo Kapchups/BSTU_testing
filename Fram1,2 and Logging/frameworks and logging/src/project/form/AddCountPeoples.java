@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 public class AddCountPeoples {
 
     private Button AddCountChildren = new Button(By.xpath("//div[@class='Room__rightColumn--1hMAR']//div[2]//div[2]//button[2]"), "button Add Children");
-    private Button AddCountAdults = new Button(By.xpath("//button[@class='Counter__countButton--1ezSK'][contains(text(),'+')]"), "button Add Adults");
+    private Button AddCountAdults = new Button(By.xpath("//div[@class='Room__line--385ZF']//div[1]//div[2]//button[2]"), "button Add Adults");
 
     public void setAddCountChildren() {
         LogUtils.info(String.format("Click %s .", AddCountChildren.getNameOfElement()));

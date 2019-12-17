@@ -72,7 +72,7 @@ public class RoomReservation extends Base {
 
         Browser.getDriver().close();
         Browser.switchTab(0);
-
+        Browser.getDriver().manage().deleteAllCookies();
 
     }
 }
