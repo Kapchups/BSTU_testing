@@ -13,8 +13,8 @@ public class SearchPage {
     private TextBox LocationText = new TextBox(By.xpath("/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/label[1]/div[2]/input[1]"), "Location hotel");
     private TextBox ArrivalDate= new TextBox(By.xpath("//div[@class='SearchForm__dates--3XSQc SearchForm__control--2yett']//label[1]"), "ArrivalDate");
     //private TextBox DateOfDeparture=new TextBox(By.xpath("//div[@class='SearchForm__dates--3XSQc SearchForm__control--2yett']//label[2]"),"DateOfDeparture");
-    private Button DateOf = new Button(By.xpath("//div[@class='Grid__months--27ael']//div[1]//div[5]//div[3]"), "DateOf");
-    private Button DateTo = new Button(By.xpath("//div[@class='Grid__months--27ael']//div[1]//div[5]//div[6]"), "DateTo");
+    private Button DateOf = new Button(By.xpath("//div[@class='Grid__months--27ael']//div[1]//div[6]//div[2]"), "DateOf");
+    private Button DateTo = new Button(By.xpath("//div[@class='Grid__months--27ael']//div[1]//div[6]//div[6]"), "DateTo");
     private TextBox Numbers=new TextBox(By.xpath("//label[@class='Input__wrapper--2qhVw Input__wrapper_size_m--1HDVA Input__wrapper_wide--163Tq Guests__input--2xDhO']"),"Numbers");
 
     private Button SaveCountPeoples = new Button(By.xpath("//button[@class='Button__button--3r3W1 Button__button_size_m--SWi_Y Button__button_wide--32aja Form__button--n9lak']"), "button Save Count Peoples");
@@ -62,7 +62,8 @@ public class SearchPage {
         DateOf.click();
     }
 
-    public void enterDateTo() {
+    public void enterDateTo() throws InterruptedException {
+
         LogUtils.info(String.format("Enter %s .", DateTo.getNameOfElement()));
         DateTo.waitElementToBeClickable();
         DateTo.click();
