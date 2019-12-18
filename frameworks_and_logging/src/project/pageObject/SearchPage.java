@@ -10,7 +10,7 @@ import project.form.SearchMenu;
 
 
 public class SearchPage {
-    private TextBox LocationText = new TextBox(By.xpath("/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/label[1]/div[2]/input[1]"), "Location hotel");
+    private TextBox LocationText = new TextBox(By.xpath("//input[@class='Input__control--3IYar']"), "Location hotel");
     private TextBox ArrivalDate= new TextBox(By.xpath("//div[@class='SearchForm__dates--3XSQc SearchForm__control--2yett']//label[1]"), "ArrivalDate");
     //private TextBox DateOfDeparture=new TextBox(By.xpath("//div[@class='SearchForm__dates--3XSQc SearchForm__control--2yett']//label[2]"),"DateOfDeparture");
     private Button DateOf = new Button(By.xpath("//div[@class='Grid__months--27ael']//div[1]//div[6]//div[2]"), "DateOf");

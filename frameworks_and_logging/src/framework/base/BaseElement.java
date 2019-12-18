@@ -76,4 +76,8 @@ public abstract class BaseElement {
         WebElement elementMenu = Browser.getDriver().findElement(locator);
         actions.moveToElement(elementMenu).perform();
     }
+
+    public String getAttribute(String attribute) {
+        return Browser.getDriver().findElement(locator).getAttribute(attribute);
+    }
 }
